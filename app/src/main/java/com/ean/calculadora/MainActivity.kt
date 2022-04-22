@@ -92,7 +92,7 @@ class MainActivity : AppCompatActivity() {
         //Boton Otra Ventana
         boton_mensaje.setOnClickListener{
             val intent = Intent(this,Mensaje::class.java)
-            startActivity(intent).
+            startActivity(intent)
         }
     }
 }
