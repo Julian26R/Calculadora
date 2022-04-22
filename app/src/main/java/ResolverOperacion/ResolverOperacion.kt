@@ -15,3 +15,5 @@ fun multiplicacion (a:Int,b:Int):Int{
 fun division (a:Int,b:Int):Double{
     return (a.toDouble()/b.toDouble())
 }
+
+f
