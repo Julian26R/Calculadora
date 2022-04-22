@@ -16,4 +16,6 @@ fun division (a:Int,b:Int):Double{
     return (a.toDouble()/b.toDouble())
 }
 
-f
+fun potencia(a:Int,b:Int):Double{
+    return Math.pow(a.toDouble(),b.toDouble())
+}
